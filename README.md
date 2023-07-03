@@ -1,6 +1,6 @@
-< h1  align = " center " > DevLinks </ h1 >
+< h1  align = "center" > DevLinks </ h1 >
 
-< p  alinhar = " centro " >
+< p alinhar = "center" >
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p> _ _
 
@@ -38,7 +38,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 Você pode visualizar o layout do projeto através de [ DESSE LINK ] ( < https://www.figma.com/file/MF894TdzM99Fg9Ssu4KyMq/DevLinks- (Copy)?node-id=1%3A113&t=8x94o7ecTaQMC2CS-1/duplicate > ) . É necessário ter conta no [ Figma ] ( https://figma.com ) para acessá-lo.
 
-## : memo : Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
